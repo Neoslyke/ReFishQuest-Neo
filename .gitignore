@@ -1,6 +1,2 @@
-.
-.vs
+bin/
 obj/
-bin/Debug/net9.0/QuestFishUnlimited.deps.json
-bin/Debug/net9.0/QuestFishUnlimited.pdb
-bin/Debug/net9.0/HttpServer.dll
